@@ -1,0 +1,9 @@
+Board lib : install 'esp32 by espressif' in 
+	  Tools-->Board-->Board manager
+Select Port: com4 or com5
+Select Board: esp32--> ESP32-WROOM-DA-MODULE
+
+ compile, upload to port 
+
+if error occurs, add Blynk lib-esp8266
+
